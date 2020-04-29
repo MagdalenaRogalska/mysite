@@ -5,16 +5,16 @@ body {
   font-family: 'Merriweather', serif;
 }
 footer {
-  background-color: #6876CF;
+  background-color: #58385F;
   color: #FCFCF7;
-  padding: 20px;
-  line-height: 2;
+  padding:5px;
+  padding-right: inherit;
   margin-top: 20px;
   text-align: left;
 }
 h1 {
   margin: 0;
-  color: #021744;
+  color: #6876CF;
   font-family: 'Sacramento', cursive;
   font-size: 5rem;
   font-weight: 100;
@@ -84,11 +84,13 @@ a {
 .author {
   color: #FCFCF7;
   padding-bottom: 20px;
+  padding-left: 50px;
+  font-size: 0.8rem
 }
 .attribute {
   padding-top: 10px;
   text-decoration: none;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   margin-bottom: 0;
   padding-bottom: 0;
   line-height: 0.8;
@@ -141,9 +143,9 @@ a {
    -moz-border-radius: 20px;
    border-radius: 20px;
    color: #FCFCFF;
-   font-family: sans-serif;
+   font-family:'Montserrat', sans-serif;
    font-size: 20px;
-   font-weight: 200;
+   font-weight: 900;
    padding: 12px;
    text-shadow: 0 0 16px #0B0B0B;
    text-decoration: none;
@@ -169,10 +171,10 @@ a {
 }
 
 a:link {
-  color: #C8FEF7;
+  color: #E66579;
 }
 a:visited {
-  color: #58385F;
+  color: #E66579;
 }
 a:hover {
   color: #39F3F2;
